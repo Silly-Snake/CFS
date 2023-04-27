@@ -1,0 +1,17 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color: yellow;
+    width: 100%;
+    font-family: cursive;
+}
+
+#heading{
+    width: 100%;
+    box-shadow: 10px 10px 10px lime;
+}
+
+b{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
